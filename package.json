@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon -x ts-node src/main.ts"
+    "start": "nodemon -x ts-node src/main.ts",
+    "test": "jest"
   },
   "dependencies": {
     "ts-node": "^9.0.0",
