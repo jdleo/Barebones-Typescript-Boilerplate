@@ -12,7 +12,7 @@ yarn
 
 ### Start
 
-Running the following will have nodemone watch over `src/main.ts`:
+Running the following will have nodemon watch over `src/main.ts`:
 
 ```
 yarn start
