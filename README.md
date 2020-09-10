@@ -25,3 +25,12 @@ Running the following will run all tests in `tests/`
 ```
 yarn test
 ```
+
+### Remove Git Reference
+
+You can now do the following to de-init git (so you can use this boilerplate as your own):
+
+```
+rm -rf .git
+git init
+```
